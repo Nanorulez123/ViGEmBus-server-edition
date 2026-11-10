@@ -36,9 +36,7 @@ A few examples of the most common use cases for `ViGEm` are:
 
 ## Supported Systems
 
-🛑 **Windows Server** might work but is **not supported** 🛑
-
-Bug reports/support requests regarding running on a Server OS will be discarded.
+This edition's setup also installs on **Windows Server 2016/2019/2022** (and newer); the upstream setup refuses to run on Server editions.
 
 ### Version 1.16 and below
 
